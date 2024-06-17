@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    align-items: center;
+    background-color: rgb(218, 121, 11);
+    color: rgb(253, 251, 247);
+    height: 100vh; 
+}
+header {
+    display: flex;
+    justify-content: center;
+    color: rgb(252, 250, 247);
+}
+
+img{
+    margin: 20px;
+    max-width: 100%;  
+    width: 300px;
+    cursor: pointer;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:30px;
+
+}
+.button_p {
+    display: flex;
+    justify-content: center;
+}
